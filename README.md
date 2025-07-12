@@ -1,0 +1,2 @@
+# spreadsheet
+This project is a pixel-perfect spreadsheet UI prototype built with React, Tailwind CSS, and JavaScript, based on a provided Figma design. It replicates an Excel-like experience with keyboard navigation, tab switching, cell selection, and interactive toolbar actions that log to the console. The layout is fully responsive and matches the Figma design closely. All UI elements are functional (no dead buttons), and the code passes ESLint + Prettier checks. The project is modular, clean, and ready to deploy with Vite on platforms like Netlify 
